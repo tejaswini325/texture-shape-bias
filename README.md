@@ -16,7 +16,6 @@ texture-shape-bias/
 │
 ├── phase2/
 │   ├── phase2_multimodel_extension.ipynb      ← 5 new architectures tested
-│   └── phase2_sin_visualization.ipynb         ← SIN model decision visualization
 │
 ├── phase3/
 │   └── phase3_hyperparameter_tuning.ipynb     ← Resolution sweep, augmentation,
@@ -39,7 +38,6 @@ texture-shape-bias/
 │   └── final_evaluation_all_models.png
 │
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
