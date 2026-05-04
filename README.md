@@ -38,9 +38,6 @@ texture-shape-bias/
 │   ├── cross_model_category_comparison.png
 │   └── final_evaluation_all_models.png
 │
-├── docs/
-│   └── presentation.pptx                      ← 10-slide presentation
-│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
