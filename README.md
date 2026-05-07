@@ -21,7 +21,7 @@ texture-shape-bias/
 │                                                 6 preprocessing variant experiments
 │
 ├── phase3_and_phase4/
-│   └── phase3_complete.ipynb                  ← Resolution sweep, augmentation,
+│   └── phase3-and-phase4.ipynb                  ← Resolution sweep, augmentation,
 │                                                 ConvNeXt/Swin/CLIP evaluation,
 │                                                 DSSB (novel architecture),
 │                                                 full error analysis (Phase 4 included)
